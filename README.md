@@ -8,7 +8,7 @@
 JavaScript évolue constamment avec des mises à jour introduisant des fonctionnalités innovantes pour améliorer le développement web. Cette documentation présente ces nouvelles fonctionnalités, leurs utilisations et leur compatibilité
 
 ## 🎥 Presentation
-Check out the full presentation on REST API and GraphQL:  
+Check out the full presentation on ES2020-ES2022:  
 [🔗 View Presentation](https://www.canva.com/design/DAGixH1oKWY/PPS0PsBOwpPOG-VAC_4Osw/edit?utm_content=DAGixH1oKWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Thanks for reading.
